@@ -1,0 +1,5 @@
+textblob
+langdetect
+language-tool-python
+textstat
+pytest
